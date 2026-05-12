@@ -4,43 +4,24 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
-
+Image classification is a fundamental task in computer vision where an input image is assigned to one of several predefined classes. The objective of this experiment is to build and train a Convolutional Neural Network (CNN) using a labeled image dataset and evaluate its performance using accuracy, confusion matrix, and classification report.
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/a757df16-cd3e-4a0a-99c3-8ac7e249f2af" />
 
-## DESIGN STEPS
-### STEP 1: 
-
-Write your own steps
-
-### STEP 2: 
-
-
-
-### STEP 3: 
-
-
-
-### STEP 4: 
-
-
-
-### STEP 5: 
-
-
-
-### STEP 6: 
-
-
-
-
+## DESIGN STEPS 
+1. Load and Preprocess Data
+2. Get the shape of the first image in the training dataset
+3. Get the shape of the first image in the test dataset
+4. Train the Model
+5. Test the Model
+6. Predict on a Single Image
+7. Display the image  
 
 ## PROGRAM
 
-### Name:
+### Name:DEEPAKK.C.R
 
-### Register Number:
+### Register Number:212224040059
 
 ```python
 class CNNClassifier(nn.Module):
