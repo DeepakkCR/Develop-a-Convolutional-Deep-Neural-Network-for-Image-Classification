@@ -97,4 +97,4 @@ def train_model(model, train_loader, num_epochs=3):
 <img width="716" height="693" alt="image" src="https://github.com/user-attachments/assets/c0b26b94-f17e-4188-9cde-c9835d911243" />
 
 ## RESULT
-Include your result here
+Thus, To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images is executed and verified successfully.
